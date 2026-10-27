@@ -7,8 +7,8 @@ void main()
     scanf("%f", &n);
     if (num >= 0)
      {
-        result = sqrt(num);
-        printf("Square root = %.2f", result);
+        res = sqrt(n);
+        printf("Square root = %.2f", res);
      }
     else
     {
